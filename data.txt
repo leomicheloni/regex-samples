@@ -1,0 +1,51 @@
+abcdefghijklmnopqurtuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ABC ABCABC
+1234567890
+
+1234-123-123
+123-222-333
+12-333-444
+
+Gonzalo Martinez
+Gonzalo Higuain
+Marcelo Gallardo
+
+https://www.leomicheloni.com
+http://www.algo.com
+https://www.tienda.com?search=word
+
+Version: 18.06.1-ce-win73 (19507)
+Channel: stable
+Sha1: b0f14f1dac391615de29280eb46a7d65c33e9e83
+Started on: 2018/11/20 23:40:06.466
+Resources: C:\Program Files\Docker\Docker\Resources
+OS: Windows 10 Enterprise
+Edition: Enterprise
+Id: 1803
+Build: 17134
+BuildLabName: 17134.1.amd64fre.rs4_release.180410-1804
+File: C:\ProgramData\Docker\service.txt
+CommandLine: "C:\Program Files\Docker\Docker\com.docker.service"
+You can send feedback, including this log file, at https://github.com/docker/for-win/issues
+[09:11:10.010][TimeIntegrationService][Info   ] Reset
+[09:11:10.026][PowerShell     ][Info   ] Run script...
+[09:11:11.494][PowerShell     ][Info   ] Run script...
+[09:11:11.807][BootHelper     ][Info   ] Hybrid boot (fast startup)
+[15:16:04.019][TimeIntegrationService][Info   ] Reset
+[15:16:04.019][PowerShell     ][Info   ] Run script...
+[15:16:05.284][PowerShell     ][Info   ] Run script...
+[15:16:05.472][BootHelper     ][Info   ] Hybrid boot (fast startup)
+[17:43:29.920][TimeIntegrationService][Info   ] Reset
+[17:43:29.920][PowerShell     ][Info   ] Run script...
+[17:43:31.343][PowerShell     ][Info   ] Run script...
+[17:43:31.499][BootHelper     ][Info   ] Hybrid boot (fast startup)
+
+@leomicheloni
+@altnet
+
+algo@mail.com
+mail@mail@mail.com
+algo-2@domain.com.ar
+algo.2@domail.com
+wrongmail@domain
