@@ -9,6 +9,8 @@ Pattern matching:
 \W      - Not a Word Character excluding _
 \s      - Whitespace (space, tab, newline)
 \S      - Not Whitespace (space, tab, newline)
+\t      - Tab
+\n      - New line
 
 Grouping:
 []      - Matches Characters in brackets (ranges with -)
