@@ -1,3 +1,3 @@
-# regex-samples
+# Regex samples
 Some files used to lear regular expression basic.
-Youtube video can be found [here](https://www.youtube.com/watch?v=kmyxZePudOI)
+Youtube video (In Spanish) can be found [here](https://www.youtube.com/watch?v=kmyxZePudOI)
